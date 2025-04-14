@@ -91,4 +91,4 @@ This project is a **multi-functional security system** using Arduino. It include
   ```cpp
   String password = "1234";
 ## 📸 Project Preview
-![Alt text](https://github.com/vik802207/Ticket_Booking/blob/main/image/Screenshot%20(324).png?raw=true)
+![Alt text](https://github.com/vik802207/Home-Automation/blob/main/img/Home%20Automation.png?raw=true)
